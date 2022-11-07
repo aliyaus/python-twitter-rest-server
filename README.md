@@ -13,7 +13,7 @@ a very simple python rest api that fetches tweets based on a hashtag
 
 # Steps to re-create this project
 
-## install pip 
+#### prerequisite 
 - 0.1) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 - 0.2) python3 get-pip.py
 
