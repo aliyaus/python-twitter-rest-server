@@ -29,7 +29,7 @@ a very simple python rest api that fetches tweets based on a hashtag
     -  `app = Flask(__name__)`
     -  `api = Api(app)`
 8) create class resources for your endpoints 
-    - `class Hello(Resource)`p
+    - `class Hello(Resource)`
     - `class Twitter(Resource)` 
 9) in the class resource we can add our get/post/put/delete methods...for this example we will only use get 
 10) in the Twitter resource we will create a get method where we extract 2 query params (word & withHashtags)
