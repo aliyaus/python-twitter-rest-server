@@ -5,7 +5,7 @@ a very simple python rest api that fetches tweets based on a hashtag
 # Key Concepts
 
 * basic rest api 
-
+* use of tweepy (a very good python library to easily access the twitter api) 
 
 # Steps to run this project
 1) clone this repository 
