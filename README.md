@@ -12,8 +12,11 @@ a very simple python rest api that fetches tweets based on a hashtag
 2) run `python3 api.py`
 
 # Steps to re-create this project
-0.1) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-0.2) python3 get-pip.py
+
+## install pip 
+- 0.1) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+- 0.2) python3 get-pip.py
+
 1) pip3 install Flask
 2) pip3 install Flask-RESTful
 3) pip3 install Tweepy
